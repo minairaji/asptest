@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yamorweb-MVC", "Yamorweb-MVC\Yamorweb-MVC.csproj", "{CFA5990F-1933-44DA-8A11-31B2300F2F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA5990F-1933-44DA-8A11-31B2300F2F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA5990F-1933-44DA-8A11-31B2300F2F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA5990F-1933-44DA-8A11-31B2300F2F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA5990F-1933-44DA-8A11-31B2300F2F58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B70275EE-BE7F-4AC0-93B2-72F2E3F4DB29}
+	EndGlobalSection
+EndGlobal
